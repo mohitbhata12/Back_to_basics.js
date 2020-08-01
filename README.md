@@ -1,0 +1,1 @@
+In this i write some basics code of javascripts and a project of Clock based on javascript
